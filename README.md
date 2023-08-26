@@ -12,6 +12,8 @@ If u added to this addon into your addons u need to install that workshop materi
 1 - Go into [lua/entities/gunshop/shared.lua]
 
 > name = Weapons Name
+> 
 > price = Weapon price on DARKRP
+> 
 > id = weapons q menu id on weapons tab
 
